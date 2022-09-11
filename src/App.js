@@ -89,7 +89,6 @@ function App() {
       width1++;
       document.getElementById('barc').style.width = width1 + '%';
       document.getElementById('percent').innerHTML = width1 + '%';
-      console.log('welcome');
     }
   }
   window.addEventListener('load', (e) => {
